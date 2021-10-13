@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=693ea724_002D5eed_002D4e46_002D8dbd_002D6db9023583ee/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllTodoItems_When_GetAllIsCalled" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9B06257D-B945-470B-A586-3FBB5CABA199::net5.0::RestAPI.UnitTests.Controllers.TodosController_Should.GetAllTodoItems_When_GetAllIsCalled&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6cccb845_002D0908_002D4485_002D9cf6_002D604f04be4f46/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllTodoItems_When_GetAllIsCalled #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9B06257D-B945-470B-A586-3FBB5CABA199::net5.0::RestAPI.UnitTests.Controllers.TodosController_Should.GetAllTodoItems_When_GetAllIsCalled&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a3ec3fa8_002D6439_002D4ae5_002Da131_002D6ce3be63b33c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetAllTodoItems_When_GetAllIsCalled #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9B06257D-B945-470B-A586-3FBB5CABA199::net5.0::RestAPI.UnitTests.Controllers.TodosController_Should.GetAllTodoItems_When_GetAllIsCalled&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=faaf8d0a_002D56d0_002D4528_002Daed6_002D096a49ef9006/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAllTodoItems_When_GetAllIsCalled #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::9B06257D-B945-470B-A586-3FBB5CABA199::net5.0::RestAPI.UnitTests.Controllers.TodosController_Should.GetAllTodoItems_When_GetAllIsCalled&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
